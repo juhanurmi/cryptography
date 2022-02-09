@@ -1,3 +1,8 @@
+# No txt, gz or filter files
+*.txt
+*.gz
+*.filter
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
